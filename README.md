@@ -1,6 +1,6 @@
-# wallet_app_ui
+# CcPocket_UI
 
-A new Flutter project.
+A simple crypto wallet app coded with Flutter.
 
 ## Getting Started
 
